@@ -8,4 +8,6 @@ The app also has an additional feature of a check button that marrys the idea of
 
 Let's get it done! 
 
+Link: https://vinavarghese.github.io/Work-Day-Scheduler/
+
 ![Preview of site](screenshot.jpg)
